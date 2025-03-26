@@ -21,7 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-<iframe src="EXNO1_DS.html" width="100%" height="600px"></iframe>
+
+[text](EXNO1_DS.ipynb)
 
 
 # Result
