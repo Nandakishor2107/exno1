@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+            [View Notebook](EXNO1_DS.ipynbipynb)
+
 # Result
-          <<include your Result here>>
+          Thus the data has been cleaned successfully.
